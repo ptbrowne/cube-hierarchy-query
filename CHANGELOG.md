@@ -1,5 +1,12 @@
 # @zazuko/cube-hierarchy-query
 
+## 1.0.0-pre.2
+
+### Patch Changes
+
+- b180146: Improve the query for example resources. Paging is now done in a `SELECT` subquery
+- b180146: Update dependencies on `@rdfjs/*` and `rdf-ext` packages to use the ESM versions
+
 ## 1.0.0-pre.1
 
 ### Patch Changes
